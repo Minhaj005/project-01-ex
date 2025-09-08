@@ -2,7 +2,7 @@
     font-family: "Open Sans", sans-serif;
 }
 .banner{
-    background-image: url(/portfolio/img/666.jpg);
+    background-image: url(../portfolio/img/666.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 15px;
